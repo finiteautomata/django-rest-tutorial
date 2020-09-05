@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     # OBS: it says I should add snippets.apps.SnippetsConfig
     'snippets',
-
+    'frontend',
 ]
 
 MIDDLEWARE = [
